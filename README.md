@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kewablay
 - 👀 I’m interested in Software engineering 
-- 🌱 I’m currently learning Node.js Typescript 
+- 🌱 I’m currently learning Angular.js
 - 💞️ I’m looking to collaborate on Website projects 
 - 📫 How to reach me kojokewajunior123@gmail.com
 
