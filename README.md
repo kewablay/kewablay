@@ -1,5 +1,3 @@
-### Hi there 👋, my name is Kewa Blay
-#### I am a Software Engineer
 ![I am a Software Engineer](https://i.imghippo.com/files/jfv0r1727571592.png)
 
 I'm a dedicated and passionate Software Engineer. Experienced in working with state-of-the-art  software development tools. With keen eye for design I'm willing to collaborate on interesting projects.
