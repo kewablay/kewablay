@@ -23,6 +23,7 @@ Skills: NEXT JS / REACT/ ANGULAR / JS / HTML / CSS
 ![kewablay's Stats](https://github-readme-stats.vercel.app/api?username=kewablay&theme=algolia&show_icons=true&hide_border=true&count_private=true)
 ![kewablay's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kewablay&theme=algolia&hide_border=true)
 ![kewablay's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kewablay&theme=algolia&show_icons=true&hide_border=true&layout=compact)
+[![committers.top badge](https://user-badge.committers.top/ghana/kewablay.svg)](https://user-badge.committers.top/ghana/kewablay)
 
 
 
