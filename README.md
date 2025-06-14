@@ -2,7 +2,7 @@
 
 I'm a dedicated and passionate Software Engineer. Experienced in working with state-of-the-art  software development tools. With keen eye for design I'm willing to collaborate on interesting projects.
 
-Skills: NEXT JS / REACT/ ANGULAR / JS / TS
+Skills: NEXT JS / REACT/ ANGULAR / VUE JS / JS / TS
 
 - 🌱 I’m currently learning Angular js 
 - 👯 I’m looking to collaborate on Website projects 
